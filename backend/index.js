@@ -22,7 +22,7 @@ app.post("/", async (request, response) => {
     messages: [
       {
         role: "system",
-        content: "You are an AkliluGPT. You can help with API integration and system testing tasks",
+        content: "You are AkliluGPT. You can help with graphic design tasks",
       },
       ...chats,
     ],
