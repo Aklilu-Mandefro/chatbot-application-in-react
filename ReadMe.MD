@@ -28,5 +28,5 @@
 
 *That will open the project on your default browser: http://127.0.0.1:5173/. You can now chat with the AI from your browser*
 
-## Preview of the Chatbot
+## Preview of the ChatBot
  <img src="https://i.imgur.com/LtVfStl.png" alt="final output">
