@@ -1,6 +1,4 @@
-# This is a chatbot app created with React, Nodejs, OpenAi, and ChatGPT
-
-
+# This is an AI-Powered ChatBot with OpenAI, ChatGPT, Node.js, and React
 
 ## Dependencies
 ### Backend
@@ -29,3 +27,6 @@
 * Start the local server ``npm run dev``
 
 *That will open the project on your default browser: http://127.0.0.1:5173/. You can now chat with the AI from your browser*
+
+## Preview of the Chatbot
+ <img src="https://i.imgur.com/LtVfStl.png" alt="final output">
