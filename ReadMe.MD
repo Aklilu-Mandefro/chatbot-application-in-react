@@ -12,7 +12,7 @@
 * [Vite](https://vitejs.dev/)
 
 ## Installation
-* Clone this repo `https://github.com/Aklilu-Mandefro/chatbot-using-react-nodejs-chatgpt`
+* Clone this repo `https://github.com/Aklilu-Mandefro/chatbot-application-in-react`
 * Navigate into the repo `cd chatbot-using-react-nodejs-chatgpt`
 
 * Navigate into the `backend` folder `cd backend`
