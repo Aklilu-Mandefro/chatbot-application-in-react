@@ -13,7 +13,7 @@
 
 ## Installation
 * Clone this repo `https://github.com/Aklilu-Mandefro/chatbot-application-in-react`
-* Navigate into the repo `cd chatbot-using-react-nodejs-chatgpt`
+* Navigate into the repo `cd chatbot-application-in-react`
 
 * Navigate into the `backend` folder `cd backend`
 * Install the dependencies ``npm install``
